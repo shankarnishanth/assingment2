@@ -1,5 +1,4 @@
 import static java.lang.Math.sqrt;
-
 public class quadratic {
     public static void main(String[] args) {
         int delta,a = 10,b = 5,c = 15;
